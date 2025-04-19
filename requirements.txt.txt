@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Standard libraries used (no need to install manually, included with Python)
+# But listing for documentation and future enhancement
+
+json
+random
+time
+os
+sys
+logging
+
+# Optional - for future enhancements
+# tkinter  # Uncomment if GUI is implemented
+# sqlite3  # Uncomment if history tracking is added via SQLite
+# pandas   # Uncomment if report generation is added
